@@ -1,16 +1,16 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	//maps-> hash,object,dict
-	//creating map
+// func main() {
+// 	//maps-> hash,object,dict
+// 	//creating map
 
-	m := make(map[string]string)
+// 	m := make(map[string]string)
 
-	//SETTING AN ELEMENT
-	m["name"] = "golang"
+// 	//SETTING AN ELEMENT
+// 	m["name"] = "golang"
 
-	fmt.Println(m["name"])
+// 	fmt.Println(m["name"])
+	
 
-}
